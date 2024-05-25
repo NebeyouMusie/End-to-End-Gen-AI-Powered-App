@@ -8,6 +8,8 @@ import streamlit as st
 from hugging_face import huggingface_llm, huggingface_embedding
 import time
 
+st.set_page_config(layout='wide', page_title="Hugging Face for RAG")
+
 # setup prompt_template
 prompt_template="""
 Use the following piece of context to answer the question asked.
