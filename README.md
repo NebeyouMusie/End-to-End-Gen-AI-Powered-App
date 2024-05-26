@@ -38,6 +38,8 @@ Steps I followed:
  6. Navigate to the app directory `cd ./app` using your terminal 
  7. run `streamlit run app.py`
  8. open the link displayed in the terminal on your preferred browser
+ 9. click on the `Embedd Documents` button and wait until the documnets are processed
+ 10. Enter your question from the PDFs found in the `us-census-data` directory
 
 ## Collaboration
 - Collaborations are welcomed ❤️
